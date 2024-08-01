@@ -1,0 +1,61 @@
+filename,card_number,card_date_year,card_date_month,card_date_day,compiler,observation,all_observations,series_name,url
+HCOAnnouncement0001_0001.innodata.xml,1,1926,3,12,Harlow Shapley,,BLATHWAYT’S COMET,Announcement Card number: 1,http://tamkin2.eps.harvard.edu/IAUCs/HAC0001.jpg
+HCOAnnouncement0001_0001.innodata.jpg,1,1926,3,12,Harlow Shapley,,BLATHWAYT’S COMET,Announcement Card number: 1,http://tamkin2.eps.harvard.edu/IAUCs/HAC0001.jpg
+HCOAnnouncement0001_0001.innodata.txt,1,1926,3,12,Harlow Shapley,,BLATHWAYT’S COMET,Announcement Card number: 1,http://tamkin2.eps.harvard.edu/IAUCs/HAC0001.jpg
+HCOAnnouncement0001_0001_a.innodata.csv,1,1926,3,12,Harlow Shapley,BLATHWAYT’S COMET,BLATHWAYT’S COMET,Announcement Card number: 1,http://tamkin2.eps.harvard.edu/IAUCs/HAC0001.jpg
+HCOAnnouncement0001_0001_b.innodata.csv,1,1926,3,12,Harlow Shapley,BLATHWAYT’S COMET,BLATHWAYT’S COMET,Announcement Card number: 1,http://tamkin2.eps.harvard.edu/IAUCs/HAC0001.jpg
+HCOAnnouncement0001_0002.innodata.xml,2,1926,3,18,Harlow Shapley,,ENSOR'S COMET; BLATHWAYT’S COMET,Announcement Card number: 2,http://tamkin2.eps.harvard.edu/IAUCs/HAC0002.jpg
+HCOAnnouncement0001_0002.innodata.jpg,2,1926,3,18,Harlow Shapley,,ENSOR'S COMET; BLATHWAYT’S COMET,Announcement Card number: 2,http://tamkin2.eps.harvard.edu/IAUCs/HAC0002.jpg
+HCOAnnouncement0001_0002.innodata.txt,2,1926,3,18,Harlow Shapley,,ENSOR'S COMET; BLATHWAYT’S COMET,Announcement Card number: 2,http://tamkin2.eps.harvard.edu/IAUCs/HAC0002.jpg
+HCOAnnouncement0001_0002_a.innodata.csv,2,1926,3,18,Harlow Shapley,ENSOR'S COMET,ENSOR'S COMET; BLATHWAYT’S COMET,Announcement Card number: 2,http://tamkin2.eps.harvard.edu/IAUCs/HAC0002.jpg
+HCOAnnouncement0001_0002_b.innodata.csv,2,1926,3,18,Harlow Shapley,ENSOR'S COMET,ENSOR'S COMET; BLATHWAYT’S COMET,Announcement Card number: 2,http://tamkin2.eps.harvard.edu/IAUCs/HAC0002.jpg
+HCOAnnouncement0001_0002_c.innodata.csv,2,1926,3,18,Harlow Shapley,BLATHWAYT’S COMET,ENSOR'S COMET; BLATHWAYT’S COMET,Announcement Card number: 2,http://tamkin2.eps.harvard.edu/IAUCs/HAC0002.jpg
+HCOAnnouncement0001_0003.innodata.xml,3,1926,5,15,Harlow Shapley,,,Announcement Card number: 3,
+HCOAnnouncement0001_0003.innodata.jpg,3,1926,5,15,Harlow Shapley,,,Announcement Card number: 3,
+HCOAnnouncement0001_0003.innodata.txt,3,1926,5,15,Harlow Shapley,,,Announcement Card number: 3,
+HCOAnnouncement0001_0004.innodata.xml,4,1926,7,15,Harlow Shapley,,KOPFF'S COMET (1906-IV),Announcement Card number: 4,
+HCOAnnouncement0001_0004.innodata.jpg,4,1926,7,15,Harlow Shapley,,KOPFF'S COMET (1906-IV),Announcement Card number: 4,
+HCOAnnouncement0001_0004.innodata.txt,4,1926,7,15,Harlow Shapley,,KOPFF'S COMET (1906-IV),Announcement Card number: 4,
+HCOAnnouncement0001_0004_a.innodata.csv,4,1926,7,15,Harlow Shapley,KOPFF'S COMET (1906-IV),KOPFF'S COMET (1906-IV),Announcement Card number: 4,
+HCOAnnouncement0001_0005.innodata.xml,5,1926,8,4,Harlow Shapley,,FINLAY'S COMET (1886 VII),Announcement Card number: 5,
+HCOAnnouncement0001_0005.innodata.jpg,5,1926,8,4,Harlow Shapley,,FINLAY'S COMET (1886 VII),Announcement Card number: 5,
+HCOAnnouncement0001_0005.innodata.txt,5,1926,8,4,Harlow Shapley,,FINLAY'S COMET (1886 VII),Announcement Card number: 5,
+HCOAnnouncement0001_0005_a.innodata.csv,5,1926,8,4,Harlow Shapley,FINLAY'S COMET (1886 VII),FINLAY'S COMET (1886 VII),Announcement Card number: 5,
+HCOAnnouncement0001_0006.innodata.xml,6,1926,9,3,Harlow Shapley,,WILK COMETARY OBJECT,Announcement Card number: 6,
+HCOAnnouncement0001_0006.innodata.jpg,6,1926,9,3,Harlow Shapley,,WILK COMETARY OBJECT,Announcement Card number: 6,
+HCOAnnouncement0001_0006.innodata.txt,6,1926,9,3,Harlow Shapley,,WILK COMETARY OBJECT,Announcement Card number: 6,
+HCOAnnouncement0001_0006_a.innodata.csv,6,1926,9,3,Harlow Shapley,WILK COMETARY OBJECT,WILK COMETARY OBJECT,Announcement Card number: 6,
+HCOAnnouncement0001_0007.innodata.xml,7,1926,10,18,Harlow Shapley,,"GIACOBINI-ZINNER COMET (1900 III, 1913 e)",Announcement Card number: 7,
+HCOAnnouncement0001_0007.innodata.jpg,7,1926,10,18,Harlow Shapley,,"GIACOBINI-ZINNER COMET (1900 III, 1913 e)",Announcement Card number: 7,
+HCOAnnouncement0001_0007.innodata.txt,7,1926,10,18,Harlow Shapley,,"GIACOBINI-ZINNER COMET (1900 III, 1913 e)",Announcement Card number: 7,
+HCOAnnouncement0001_0007_a.innodata.csv,7,1926,10,18,Harlow Shapley,"GIACOBINI-ZINNER COMET (1900 III, 1913 e)","GIACOBINI-ZINNER COMET (1900 III, 1913 e)",Announcement Card number: 7,
+HCOAnnouncement0001_0008.innodata.xml,8,1926,11,8,Harlow Shapley,,New Comet; NEUJMIN'S COMET,Announcement Card number: 8,
+HCOAnnouncement0001_0008.innodata.jpg,8,1926,11,8,Harlow Shapley,,New Comet; NEUJMIN'S COMET,Announcement Card number: 8,
+HCOAnnouncement0001_0008.innodata.txt,8,1926,11,8,Harlow Shapley,,New Comet; NEUJMIN'S COMET,Announcement Card number: 8,
+HCOAnnouncement0001_0008_a.innodata.csv,8,1926,11,8,Harlow Shapley,New Comet,New Comet; NEUJMIN'S COMET,Announcement Card number: 8,
+HCOAnnouncement0001_0008_b.innodata.csv,8,1926,11,8,Harlow Shapley,New Comet,New Comet; NEUJMIN'S COMET,Announcement Card number: 8,
+HCOAnnouncement0001_0008_c.innodata.csv,8,1926,11,8,Harlow Shapley,NEUJMIN'S COMET,New Comet; NEUJMIN'S COMET,Announcement Card number: 8,
+HCOAnnouncement0001_0009.innodata.xml,9,1920,11,10,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 9,
+HCOAnnouncement0001_0009.innodata.jpg,9,1920,11,10,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 9,
+HCOAnnouncement0001_0009.innodata.txt,9,1920,11,10,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 9,
+HCOAnnouncement0001_0009_a.innodata.csv,9,1920,11,10,Harlow Shapley,COMAS SOLA'S COMET,COMAS SOLA'S COMET,Announcement Card number: 9,
+HCOAnnouncement0001_0010.innodata.xml,10,1926,11,11,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 10,
+HCOAnnouncement0001_0010.innodata.jpg,10,1926,11,11,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 10,
+HCOAnnouncement0001_0010.innodata.txt,10,1926,11,11,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 10,
+HCOAnnouncement0001_0010_a.innodata.csv,10,1926,11,11,Harlow Shapley,COMAS SOLA'S COMET,COMAS SOLA'S COMET,Announcement Card number: 10,
+HCOAnnouncement0001_0011.innodata.xml,11,1926,11,12,Harlow Shapley,,ORBIT OF COMAS SOLA'S CCOMET,Announcement Card number: 11,
+HCOAnnouncement0001_0011.innodata.jpg,11,1926,11,12,Harlow Shapley,,ORBIT OF COMAS SOLA'S CCOMET,Announcement Card number: 11,
+HCOAnnouncement0001_0011.innodata.txt,11,1926,11,12,Harlow Shapley,,ORBIT OF COMAS SOLA'S CCOMET,Announcement Card number: 11,
+HCOAnnouncement0001_0011_a.innodata.csv,11,1926,11,12,Harlow Shapley,ORBIT OF COMAS SOLA'S CCOMET,ORBIT OF COMAS SOLA'S CCOMET,Announcement Card number: 11,
+HCOAnnouncement0001_0012.innodata.xml,12,1926,11,15,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 12,
+HCOAnnouncement0001_0012.innodata.jpg,12,1926,11,15,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 12,
+HCOAnnouncement0001_0012.innodata.txt,12,1926,11,15,Harlow Shapley,,COMAS SOLA'S COMET,Announcement Card number: 12,
+HCOAnnouncement0001_0012_a.innodata.csv,12,1926,11,15,Harlow Shapley,COMAS SOLA'S COMET,COMAS SOLA'S COMET,Announcement Card number: 12,
+HCOAnnouncement0001_0012_b.innodata.csv,12,1926,11,15,Harlow Shapley,COMAS SOLA'S COMET,COMAS SOLA'S COMET,Announcement Card number: 12,
+HCOAnnouncement0001_0012_c.innodata.csv,12,1926,11,15,Harlow Shapley,COMAS SOLA'S COMET,COMAS SOLA'S COMET,Announcement Card number: 12,
+HCOAnnouncement0001_0013.innodata.xml,13,1926,12,15,Harlow Shapley,,COMAS SOLA'S COMET (1926 f),Announcement Card number: 13,
+HCOAnnouncement0001_0013.innodata.jpg,13,1926,12,15,Harlow Shapley,,COMAS SOLA'S COMET (1926 f),Announcement Card number: 13,
+HCOAnnouncement0001_0013.innodata.txt,13,1926,12,15,Harlow Shapley,,COMAS SOLA'S COMET (1926 f),Announcement Card number: 13,
+HCOAnnouncement0001_0013_a.innodata.csv,13,1926,12,15,Harlow Shapley,COMAS SOLA'S COMET (1926 f),COMAS SOLA'S COMET (1926 f),Announcement Card number: 13,
+HCOAnnouncement0001_0013_b.innodata.csv,13,1926,12,15,Harlow Shapley,COMAS SOLA'S COMET (1926 f),COMAS SOLA'S COMET (1926 f),Announcement Card number: 13,
+HCOAnnouncement0001_0013_c.innodata.csv,13,1926,12,15,Harlow Shapley,COMAS SOLA'S COMET (1926 f),COMAS SOLA'S COMET (1926 f),Announcement Card number: 13,
