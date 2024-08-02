@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><alto xmlns="http://www.loc.gov/standards/alto/ns-v4#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# alto-4-2.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <Description>
+    <MeasurementUnit>inch1200</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>HCOAnnouncement0001_0009.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page HEIGHT="12604" WIDTH="9600" ID="page_001" PHYSICAL_IMG_NR="1">
+      <PrintSpace HPOS="0" VPOS="0" HEIGHT="12604" WIDTH="9600" ID="SP_1">
+        <TextBlock HPOS="412" VPOS="512" HEIGHT="136" WIDTH="3384" ID="p1_z1_ARTICLE_1">
+          <TextLine HPOS="412" VPOS="512" HEIGHT="136" WIDTH="3384" ID="TL_1.1.1">
+            <String HPOS="412" VPOS="532" HEIGHT="116" WIDTH="912" CONTENT="HARVARD" ID="St_1.1.1.1" />
+            <SP HPOS="1324" VPOS="532" WIDTH="108" ID="SP_1.1.1.2" />
+            <String HPOS="1432" VPOS="528" HEIGHT="120" WIDTH="880" CONTENT="COLLEGE" ID="St_1.1.1.3" />
+            <SP HPOS="2312" VPOS="528" WIDTH="112" ID="SP_1.1.1.4" />
+            <String HPOS="2424" VPOS="512" HEIGHT="124" WIDTH="1372" CONTENT="OBSERVATORY" ID="St_1.1.1.5" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1124" VPOS="776" HEIGHT="124" WIDTH="1968" ID="p1_z2_ARTICLE_2">
+          <TextLine HPOS="1124" VPOS="776" HEIGHT="124" WIDTH="1968" ID="TL_1.2.1">
+            <String HPOS="1124" VPOS="780" HEIGHT="120" WIDTH="1328" CONTENT="ANNOUNCEMENT" ID="St_1.2.1.1" />
+            <SP HPOS="2452" VPOS="780" WIDTH="72" ID="SP_1.2.1.2" />
+            <String HPOS="2524" VPOS="776" HEIGHT="112" WIDTH="424" CONTENT="CARD" ID="St_1.2.1.3" />
+            <SP HPOS="2948" VPOS="776" WIDTH="72" ID="SP_1.2.1.4" />
+            <String HPOS="3020" VPOS="780" HEIGHT="104" WIDTH="72" CONTENT="9" ID="St_1.2.1.5" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="404" VPOS="1724" HEIGHT="876" WIDTH="3404" ID="p1_z3_ARTICLE_3">
+          <TextLine HPOS="568" VPOS="1724" HEIGHT="164" WIDTH="3228" ID="TL_1.3.1">
+            <String HPOS="568" VPOS="1728" HEIGHT="136" WIDTH="488" CONTENT="COMAS" ID="St_1.3.1.1" />
+            <SP HPOS="1056" VPOS="1728" WIDTH="60" ID="SP_1.3.1.2" />
+            <String HPOS="1116" VPOS="1728" HEIGHT="136" WIDTH="476" CONTENT="SOLA'S" ID="St_1.3.1.3" />
+            <SP HPOS="1592" VPOS="1728" WIDTH="60" ID="SP_1.3.1.4" />
+            <String HPOS="1652" VPOS="1732" HEIGHT="132" WIDTH="528" CONTENT="COMET." ID="St_1.3.1.5" />
+            <SP HPOS="2180" VPOS="1732" WIDTH="44" ID="SP_1.3.1.6" />
+            <String HPOS="2224" VPOS="1800" HEIGHT="20" WIDTH="168" CONTENT="—" ID="St_1.3.1.7" />
+            <SP HPOS="2392" VPOS="1800" WIDTH="40" ID="SP_1.3.1.8" />
+            <String HPOS="2432" VPOS="1728" HEIGHT="128" WIDTH="280" CONTENT="The" ID="St_1.3.1.9" />
+            <SP HPOS="2712" VPOS="1728" WIDTH="60" ID="SP_1.3.1.10" />
+            <String HPOS="2772" VPOS="1724" HEIGHT="164" WIDTH="1024" CONTENT="following" ID="St_1.3.1.11" />
+          </TextLine>
+          <TextLine HPOS="404" VPOS="1956" HEIGHT="144" WIDTH="3396" ID="TL_1.3.2">
+            <String HPOS="404" VPOS="1968" HEIGHT="132" WIDTH="348" CONTENT="positions" ID="St_1.3.2.1" />
+            <SP HPOS="752" VPOS="1968" WIDTH="48" ID="SP_1.3.2.2" />
+            <String HPOS="800" VPOS="1972" HEIGHT="124" WIDTH="136" CONTENT="of" ID="St_1.3.2.3" />
+            <SP HPOS="936" VPOS="1972" WIDTH="60" ID="SP_1.3.2.4" />
+            <String HPOS="996" VPOS="1968" HEIGHT="132" WIDTH="484" CONTENT="Comas" ID="St_1.3.2.5" />
+            <SP HPOS="1480" VPOS="1968" WIDTH="52" ID="SP_1.3.2.6" />
+            <String HPOS="1532" VPOS="1964" HEIGHT="136" WIDTH="412" CONTENT="Sola's" ID="St_1.3.2.7" />
+            <SP HPOS="1944" VPOS="1964" WIDTH="52" ID="SP_1.3.2.8" />
+            <String HPOS="1996" VPOS="1976" HEIGHT="120" WIDTH="428" CONTENT="comet" ID="St_1.3.2.9" />
+            <SP HPOS="2424" VPOS="1976" WIDTH="44" ID="SP_1.3.2.10" />
+            <String HPOS="2468" VPOS="1964" HEIGHT="128" WIDTH="336" CONTENT="have" ID="St_1.3.2.11" />
+            <SP HPOS="2804" VPOS="1964" WIDTH="52" ID="SP_1.3.2.12" />
+            <String HPOS="2856" VPOS="1968" HEIGHT="124" WIDTH="320" CONTENT="been" ID="St_1.3.2.13" />
+            <SP HPOS="3176" VPOS="1968" WIDTH="52" ID="SP_1.3.2.14" />
+            <String HPOS="3228" VPOS="1956" HEIGHT="136" WIDTH="572" CONTENT="received" ID="St_1.3.2.15" />
+          </TextLine>
+          <TextLine HPOS="404" VPOS="2196" HEIGHT="172" WIDTH="3404" ID="TL_1.3.3">
+            <String HPOS="404" VPOS="2208" HEIGHT="160" WIDTH="176" CONTENT="by" ID="St_1.3.3.1" />
+            <SP HPOS="580" VPOS="2208" WIDTH="112" ID="SP_1.3.3.2" />
+            <String HPOS="692" VPOS="2204" HEIGHT="160" WIDTH="772" CONTENT="cablegram," ID="St_1.3.3.3" />
+            <SP HPOS="1464" VPOS="2204" WIDTH="112" ID="SP_1.3.3.4" />
+            <String HPOS="1576" VPOS="2200" HEIGHT="136" WIDTH="400" CONTENT="dated" ID="St_1.3.3.5" />
+            <SP HPOS="1976" VPOS="2200" WIDTH="120" ID="SP_1.3.3.6" />
+            <String HPOS="2096" VPOS="2200" HEIGHT="128" WIDTH="748" CONTENT="November" ID="St_1.3.3.7" />
+            <SP HPOS="2844" VPOS="2200" WIDTH="124" ID="SP_1.3.3.8" />
+            <String HPOS="2968" VPOS="2208" HEIGHT="148" WIDTH="188" CONTENT="10," ID="St_1.3.3.9" />
+            <SP HPOS="3156" VPOS="2208" WIDTH="112" ID="SP_1.3.3.10" />
+            <String HPOS="3268" VPOS="2196" HEIGHT="132" WIDTH="256" CONTENT="and" ID="St_1.3.3.11" />
+            <SP HPOS="3524" VPOS="2196" WIDTH="104" ID="SP_1.3.3.12" />
+            <String HPOS="3628" VPOS="2196" HEIGHT="164" WIDTH="180" CONTENT="by" ID="St_1.3.3.13" />
+          </TextLine>
+          <TextLine HPOS="404" VPOS="2436" HEIGHT="164" WIDTH="3076" ID="TL_1.3.4">
+            <String HPOS="404" VPOS="2440" HEIGHT="160" WIDTH="668" CONTENT="telegram," ID="St_1.3.4.1" />
+            <SP HPOS="1072" VPOS="2440" WIDTH="64" ID="SP_1.3.4.2" />
+            <String HPOS="1136" VPOS="2440" HEIGHT="128" WIDTH="396" CONTENT="dated" ID="St_1.3.4.3" />
+            <SP HPOS="1532" VPOS="2440" WIDTH="72" ID="SP_1.3.4.4" />
+            <String HPOS="1604" VPOS="2436" HEIGHT="128" WIDTH="748" CONTENT="November" ID="St_1.3.4.5" />
+            <SP HPOS="2352" VPOS="2436" WIDTH="56" ID="SP_1.3.4.6" />
+            <String HPOS="2408" VPOS="2444" HEIGHT="144" WIDTH="120" CONTENT="8," ID="St_1.3.4.7" />
+            <SP HPOS="2528" VPOS="2444" WIDTH="68" ID="SP_1.3.4.8" />
+            <String HPOS="2596" VPOS="2436" HEIGHT="160" WIDTH="884" CONTENT="respectively." ID="St_1.3.4.9" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="360" VPOS="2736" HEIGHT="696" WIDTH="3496" ID="p1_z4_ARTICLE_4" xmlns:href="../csv/HCOAnnouncement0001_0009_a.innodata.csv" />
+        <TextBlock HPOS="416" VPOS="3616" HEIGHT="396" WIDTH="3400" ID="p1_z5_ARTICLE_4">
+          <TextLine HPOS="416" VPOS="3616" HEIGHT="168" WIDTH="3400" ID="TL_1.5.1">
+            <String HPOS="416" VPOS="3620" HEIGHT="132" WIDTH="280" CONTENT="The" ID="St_1.5.1.1" />
+            <SP HPOS="696" VPOS="3620" WIDTH="112" ID="SP_1.5.1.2" />
+            <String HPOS="808" VPOS="3616" HEIGHT="136" WIDTH="280" CONTENT="first" ID="St_1.5.1.3" />
+            <SP HPOS="1088" VPOS="3616" WIDTH="124" ID="SP_1.5.1.4" />
+            <String HPOS="1212" VPOS="3624" HEIGHT="124" WIDTH="836" CONTENT="observation" ID="St_1.5.1.5" />
+            <SP HPOS="2048" VPOS="3624" WIDTH="124" ID="SP_1.5.1.6" />
+            <String HPOS="2172" VPOS="3656" HEIGHT="88" WIDTH="112" CONTENT="is" ID="St_1.5.1.7" />
+            <SP HPOS="2284" VPOS="3656" WIDTH="120" ID="SP_1.5.1.8" />
+            <String HPOS="2404" VPOS="3620" HEIGHT="164" WIDTH="180" CONTENT="by" ID="St_1.5.1.9" />
+            <SP HPOS="2584" VPOS="3620" WIDTH="128" ID="SP_1.5.1.10" />
+            <String HPOS="2712" VPOS="3616" HEIGHT="164" WIDTH="848" CONTENT="Krumpholz," ID="St_1.5.1.11" />
+            <SP HPOS="3560" VPOS="3616" WIDTH="124" ID="SP_1.5.1.12" />
+            <String HPOS="3684" VPOS="3620" HEIGHT="128" WIDTH="132" CONTENT="of" ID="St_1.5.1.13" />
+          </TextLine>
+          <TextLine HPOS="416" VPOS="3852" HEIGHT="160" WIDTH="3268" ID="TL_1.5.2">
+            <String HPOS="416" VPOS="3852" HEIGHT="160" WIDTH="556" CONTENT="Vienna;" ID="St_1.5.2.1" />
+            <SP HPOS="972" VPOS="3852" WIDTH="144" ID="SP_1.5.2.2" />
+            <String HPOS="1116" VPOS="3852" HEIGHT="128" WIDTH="224" CONTENT="the" ID="St_1.5.2.3" />
+            <SP HPOS="1340" VPOS="3852" WIDTH="88" ID="SP_1.5.2.4" />
+            <String HPOS="1428" VPOS="3852" HEIGHT="132" WIDTH="472" CONTENT="second" ID="St_1.5.2.5" />
+            <SP HPOS="1900" VPOS="3852" WIDTH="92" ID="SP_1.5.2.6" />
+            <String HPOS="1992" VPOS="3856" HEIGHT="156" WIDTH="176" CONTENT="by" ID="St_1.5.2.7" />
+            <SP HPOS="2168" VPOS="3856" WIDTH="88" ID="SP_1.5.2.8" />
+            <String HPOS="2256" VPOS="3852" HEIGHT="160" WIDTH="472" CONTENT="Green," ID="St_1.5.2.9" />
+            <SP HPOS="2728" VPOS="3852" WIDTH="92" ID="SP_1.5.2.10" />
+            <String HPOS="2820" VPOS="3856" HEIGHT="128" WIDTH="136" CONTENT="of" ID="St_1.5.2.11" />
+            <SP HPOS="2956" VPOS="3856" WIDTH="88" ID="SP_1.5.2.12" />
+            <String HPOS="3044" VPOS="3856" HEIGHT="128" WIDTH="640" CONTENT="Amherst." ID="St_1.5.2.13" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2496" VPOS="4228" HEIGHT="132" WIDTH="1320" ID="p1_z6_ARTICLE_5">
+          <TextLine HPOS="2496" VPOS="4228" HEIGHT="132" WIDTH="1320" ID="TL_1.6.1">
+            <String HPOS="2496" VPOS="4228" HEIGHT="132" WIDTH="620" CONTENT="HARLOW" ID="St_1.6.1.1" />
+            <SP HPOS="3116" VPOS="4228" WIDTH="76" ID="SP_1.6.1.2" />
+            <String HPOS="3192" VPOS="4228" HEIGHT="132" WIDTH="624" CONTENT="SHAPLEY" ID="St_1.6.1.3" />
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="420" VPOS="4520" HEIGHT="132" WIDTH="1140" ID="p1_z7_ARTICLE_6">
+          <TextLine HPOS="420" VPOS="4520" HEIGHT="132" WIDTH="1140" ID="TL_1.7.1">
+            <String HPOS="420" VPOS="4520" HEIGHT="112" WIDTH="576" CONTENT="November" ID="St_1.7.1.1" />
+            <SP HPOS="996" VPOS="4520" WIDTH="52" ID="SP_1.7.1.2" />
+            <String HPOS="1048" VPOS="4532" HEIGHT="120" WIDTH="168" CONTENT="10," ID="St_1.7.1.3" />
+            <SP HPOS="1216" VPOS="4532" WIDTH="72" ID="SP_1.7.1.4" />
+            <String HPOS="1288" VPOS="4524" HEIGHT="104" WIDTH="272" CONTENT="1926" ID="St_1.7.1.5" />
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
