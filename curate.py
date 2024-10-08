@@ -105,9 +105,9 @@ def create_dataset_metadata(author, affiliation, contact, email, series_name, se
         'topic_classification': tps,
         'data_source': data_source,
         'creation_date': collection_date,
-        'astroObject': obs,
-        'astroFacility': astro_facility,
-        'astroType': astro_type
+        'astro_object': obs,
+        'astro_facility': astro_facility,
+        'astro_type': astro_type
     }
 
     return dataset_metadata
@@ -168,8 +168,8 @@ def create_dataset(ds, dataset_metadata):
         ds.citation.data_sources = data_sources
         
     ds.citation.distribution_date = dataset_metadata.get('creation_date')
-    ds.astrophysics.astro_object = dataset_metadata.get('astroObject')
-    ds.astrophysics.astro_facility = dataset_metadata.get('astroFacility')
+    ds.astrophysics.astro_object = dataset_metadata.get('astro_object')
+    ds.astrophysics.astro_facility = dataset_metadata.get('astro_facility')
 
 
     #dict = rich.print(ds.dataverse_dict())
@@ -344,7 +344,7 @@ def create_datafile_metadata(inventory_df, template_csv, template_txt, template_
         # handle csv files
         if (file_type == 'csv'):
             # table title for csv files included in descriptions
-            desc = template_xml + ' ' + series_name
+            desc = template_csv + ' ' + series_name
         if (file_type == 'xml'):
             desc = template_xml + ' ' + series_name
         else:
@@ -415,7 +415,7 @@ def python_dvuploader(api, dataverse_url, dataset_pid, data_directory, metadata_
 
         #format tags
         tags = row[1].get('tags')
-        tags_lst = eval(tags)
+        tags_lst = tags
         
         files.append(dv.File(filepath = filepath,
                              file_name = file_name,
@@ -435,7 +435,7 @@ def python_dvuploader(api, dataverse_url, dataset_pid, data_directory, metadata_
         api_token = key,
         dataverse_url = dataverse_url,
         persistent_id = dataset_pid,
-        n_parallel_uploads= 2 #however many your installation can handle
+        n_parallel_uploads= 4 #however many your installation can handle
     )
 
     
