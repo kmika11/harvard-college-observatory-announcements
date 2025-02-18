@@ -49,7 +49,7 @@ def create_dataset_metadata(author, affiliation, contact, email, series_name, se
         return {}
     
     # Check the inventory for required fields
-    required_fields = ['series_name', 'volume_title', 'contributor', 'subjects', 'card_date_year', 'url']
+    required_fields = ['series_name', 'contributor', 'subjects', 'card_date_year', 'url']
     for field in required_fields:
         if field not in series_inventory.columns:
             print(f'Error: Missing required field {field} in inventory')
@@ -60,7 +60,6 @@ def create_dataset_metadata(author, affiliation, contact, email, series_name, se
     
     # Collect metadata variables
     dataset_title = series_inventory.at[index, 'series_name']
-    volume_title = series_inventory.at[index, 'volume_title']
     card_number = series_inventory.at[index, 'card_number']
     contributor = series_inventory.at[index, 'contributor']
     all_observations = series_inventory.at[index, 'all_observations']
@@ -89,9 +88,9 @@ def create_dataset_metadata(author, affiliation, contact, email, series_name, se
     
     # Define other metadata
     subjects = 'Astronomy and Astrophysics'
-    data_source = [series_inventory.at[index, 'url']]
+    data_source = [series_inventory.at[index, 'permalink']]
     astro_facility = ['Harvard Bureau of Astronomical Telegrams']
-    astro_type = 'Observation'
+    astro_type = ['Observation']
 
     # Build the dataset metadata dictionary
     dataset_metadata = {
@@ -263,7 +262,7 @@ def pydataverse_create_dataset(api, dataverse_url, dataset_metadata):
         'dataset_pid':response.json().get('data').get('persistentId')     
     }
 
-def create_datafile_metadata(inventory_df, template_csv, template_txt, template_xml):
+def create_datafile_metadata(inventory_df, template_csv, template_txt, template_xml, template_jpg):
     """
     Create metadata for open metadata project datafiles based upon a template
 
@@ -310,8 +309,6 @@ def create_datafile_metadata(inventory_df, template_csv, template_txt, template_
     all_descriptions = []
     # prepare datafile tags
     all_tags = []
-    # prepare mimetypes
-    all_mime_types = []
 
     # iterate through through the inventory and create datafile metadata
     for index, row in inventory_df.iterrows():
@@ -328,25 +325,15 @@ def create_datafile_metadata(inventory_df, template_csv, template_txt, template_
         if pd.notna(observations):
             entities = str(observations).split(';')
             file_tags.extend(entities)
-
-        # set file mimetype
-        if (file_type == 'jpg'):
-            all_mime_types.append('image/jpeg')
-        elif (file_type == 'xml'):
-            all_mime_types.append('application/xml')
-        elif (file_type == 'txt'):
-            all_mime_types.append('text/plain')        
-        elif (file_type == 'csv'):
-            all_mime_types.append('text/csv')
-        else:
-            all_mime_types.append('UNKNOWN')             
-
-        # handle csv files
+      
+        # handle files descriptions
         if (file_type == 'csv'):
             # table title for csv files included in descriptions
             desc = template_csv + ' ' + series_name
         if (file_type == 'xml'):
             desc = template_xml + ' ' + series_name
+        if (file_type == 'jpg'):
+            desc == template_jpg + ' ' + series_name
         else:
             # set description
             desc = template_txt + ' ' + series_name
@@ -360,7 +347,6 @@ def create_datafile_metadata(inventory_df, template_csv, template_txt, template_
         'filename': all_filenames,
         'file_type': all_file_types,
         'description': all_descriptions,
-        'mimetype': all_mime_types,
         'tags': all_tags
     })
 
